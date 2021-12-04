@@ -1,5 +1,4 @@
-# landing-page-1
-# Time Planner Project
+# landing page (Time Planner)
 - Hero Section
 - Pricing Table
 - Contact Us Section
